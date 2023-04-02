@@ -21,5 +21,8 @@
     <ClCompile Include="WarCombat1303.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="OrganicCabbage1012.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
