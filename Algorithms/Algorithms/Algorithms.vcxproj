@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Algorithms.cpp" />
     <ClCompile Include="OrganicCabbage1012.cpp" />
+    <ClCompile Include="Tetromino14500.cpp" />
     <ClCompile Include="WarCombat1303.cpp" />
     <ClCompile Include="WarRecall1299.cpp" />
   </ItemGroup>
